@@ -156,7 +156,7 @@ $ python ddmonitor.py --all
  | ------------- | ------------- |
  | `-a` or `--all` |Dumps all the monitor created|
  | `-n` or `--search-by-name` |Search monitor using filter `name`|
- |`-s` or `--search-by-status`|Search monitor using filter `status`|
+ | `-s` or `--search-by-status`|Search monitor using filter `status`|
  | `-t` or `--search-by-tag` |Search monitor using filter `tags`. These are custom tags|
 
 
@@ -169,4 +169,4 @@ $ python ddmonitor.py --all
 
 ###### Credits
 
- * [Kodelint]|kodelint@gmail.com)
+ * [Kodelint](kodelint@gmail.com)
